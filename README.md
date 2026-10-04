@@ -17,7 +17,7 @@ This repository contains my daily DSA practice, solutions, and learning notes. T
 | Day | Topic | Problems | Status |
 |---|---|---:|---|
 | Day 01 | Arrays | 2 | ✅ Completed |
-| Day 02 | Arrays | 2 | ⏳ Upcoming |
+Day 02 | Arrays | 2 | ✅ Completed
 | Day 03 | Strings | 2 | ⏳ Upcoming |
 
 > I will update this table as I progress through the challenge.
