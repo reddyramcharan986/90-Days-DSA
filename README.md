@@ -20,8 +20,8 @@ This repository contains my daily DSA practice, solutions, and learning notes. T
 | Day 02  | Arrays    | 2            | ✅ Completed |
 | Day 03  | Arrays    | 2            | ✅ Completed |
 | Day 04  | Arrays    | 2            | ✅ Completed |
-| Day 05  | Arrays    | 2            | ⏳ Upcoming |
-| Day 06  | Arrays    | 2            | ⏳ Upcoming |
+| Day 05  | Arrays    | 2            | ✅ Completed |
+| Day 06  | Arrays    | 2            | ✅ Completed |
 | Day 07  | Arrays    | 2            | ⏳ Upcoming |
 | Day 08  | Arrays    | 2            | ⏳ Upcoming |
 | Day 09  | Arrays    | 2            | ⏳ Upcoming |
