@@ -16,16 +16,18 @@ This repository contains my daily DSA practice, solutions, and learning notes. T
 
 | **Day** | **Topic** | **Problems** | **Status** |
 | ------- | --------- | ------------ | ---------- |
-| Day 01  | Arrays    | 2            | ✅ Completed |
-| Day 02  | Arrays    | 2            | ✅ Completed |
-| Day 03  | Arrays    | 2            | ✅ Completed |
-| Day 04  | Arrays    | 2            | ✅ Completed |
-| Day 05  | Arrays    | 2            | ✅ Completed |
-| Day 06  | Arrays    | 2            | ✅ Completed |
-| Day 07  | Arrays    | 2            | ✅ Completed |
-| Day 08  | Arrays    | 2            | ✅ Completed |
-| Day 09  | Arrays    | 2            | ⏳ Upcoming |
-| Day 10  | Arrays    | 2            | ⏳ Upcoming |
+| Day 01  | Arrays | 2 | ✅ Completed |
+| Day 02  | Arrays | 2 | ✅ Completed |
+| Day 03  | Arrays | 2 | ✅ Completed |
+| Day 04  | Arrays | 2 | ✅ Completed |
+| Day 05  | Arrays | 2 | ✅ Completed |
+| Day 06  | Arrays | 2 | ✅ Completed |
+| Day 07  | Arrays | 2 | ✅ Completed |
+| Day 08  | Arrays | 2 | ✅ Completed |
+| Day 09  | Arrays | 2 | ✅ Completed |
+| Day 10  | Arrays | 2 | ✅ Completed |
+
+> I will update this table as I progress through the challenge.
 
 > I will update this table as I progress through the challenge.
 
